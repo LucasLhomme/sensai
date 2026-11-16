@@ -1,7 +1,6 @@
 # SENSAI — Assistant IA Modulaire et Agentique
 
-[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
-[![Academic Year: 2026-2027](https://img.shields.io/badge/Academic%20Year-2026--2027%20(Tek3)-blueviolet.svg)](#)
+[![Epitech: Tek3](https://img.shields.io/badge/Epitech-Tek3-005696.svg)](https://www.epitech.eu/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
