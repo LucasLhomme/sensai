@@ -1,5 +1,10 @@
 # SENSAI — Assistant IA Modulaire et Agentique
 
+[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
+[![Academic Year: 2026-2027](https://img.shields.io/badge/Academic%20Year-2026--2027%20(Tek3)-blueviolet.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 ## 1. Contexte et Univers Pédagogique
 
 SENSAI s'inscrit dans le cadre historique de la Chine antique durant la période des Sept Royaumes Combattants (*Zhanguo*, 475 av. J.-C. – 221 av. J.-C.) : Qin, Chu, Qi, Zhao, Wei, Han et Yan.
